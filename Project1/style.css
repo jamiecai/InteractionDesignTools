@@ -1,0 +1,61 @@
+
+.jumbotron {
+	background-color: #FFC1C1 !important; 
+	padding-top: 0!important;
+	height: 16.1em;
+}
+.navbar {
+	background-color:#FFC1C1; 
+	border-style: none;
+}
+.navbar-toggle {
+	border-color: white !important;
+}
+.navbar-toggle:hover {
+	border-color: #FFC1C1!important;
+	background-color: #FFC1C1!important;
+}
+.icon-bar:hover {
+	background-color: white!important;
+}
+.navbar-brand {
+	color: white !important;
+	font-size: 1.2em;
+	font-family: 'Lily Script One', cursive;
+}
+.navbar-brand:hover {
+	color:#FFDBDB !important;
+}
+.navbar-nav {
+	font-family: 'Lily Script One', cursive;
+}
+.title-name{
+	font-family: 'Lily Script One', cursive;
+	color: white!important; 
+}
+.title-desc {
+	font-family: 'Bad Script', cursive;
+	color: #FFDBDB!important;
+}
+
+.col-md-3 h3 {
+	font-family: 'Lily Script One', cursive;	
+}
+.col-md-3 p {
+	font-family: 'Bad Script', cursive;
+	color: #777;
+}
+
+
+/* index */
+.jumbotron-subpage {
+	margin-bottom: 0px;
+    background-image: url(http://www.travelandleisure.com/sites/default/files/styles/1600x1000/public/1445959991/san-francisco-Jane-Pastries-BAKERY1015.jpg?itok=ObBHQOd1);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 16.1em;
+}
+.navbar {
+	opacity:0.8;
+}
